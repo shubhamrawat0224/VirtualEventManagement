@@ -1,4 +1,4 @@
-                                                                                     🎉 Virtual Event Management Backend
+                                                🎉 Virtual Event Management Backend
 This is a simple virtual event management backend built using Node.js, Express.js, JWT Authentication, and Nodemailer. It uses in-memory storage to handle users, events, and registrations.
 
 📜 Features
